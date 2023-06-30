@@ -1,0 +1,19 @@
+{
+  "name": "grpc-streaming",
+  "version": "1.0.0",
+  "description": "Streaming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.8.17",
+    "@grpc/proto-loader": "^0.7.7",
+    "async": "^3.2.4",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.8"
+  }
+}
